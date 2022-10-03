@@ -1,1 +1,2 @@
+type in terminal:
 python main.py model.eim
